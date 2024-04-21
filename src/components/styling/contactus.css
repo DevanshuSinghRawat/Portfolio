@@ -1,0 +1,16 @@
+.contactus {
+    width: 100dvw;
+    background-color: #000;
+    color: #fff;
+    font-size: 1rem;
+    padding: 2%;
+}
+li {
+    list-style-type: none;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}

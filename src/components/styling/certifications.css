@@ -1,0 +1,20 @@
+.certItem {
+    border-bottom: 1px solid #cfc7c7;
+    padding: 10px;
+}
+.certItem:hover {
+    padding-left: 30px;
+    font-weight: bold;
+    border-bottom: 2px solid #ff8c00e7;
+}
+
+img {
+    max-width: 50dvw;
+    min-width: 300px;
+    position: relative;
+    left: -30px;
+}
+/* .certPanel {
+    display: grid;
+    gap: 3px;
+} */

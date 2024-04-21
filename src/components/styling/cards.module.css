@@ -1,0 +1,28 @@
+.card {
+    position: relative;
+    display: flex;
+    /* background-color: blueviolet; */
+    width: 100%;
+    height: fit-content;
+    margin: 5vmin 0;
+    font-size: 2dvh;
+}
+.sidehead {
+    position: relative;
+    text-align: center;
+    width: 15%;
+    height: 30dvh;
+    font-size: 6vmin;
+    writing-mode: vertical-rl;
+    text-orientation: sideways;
+    transform: rotate(180deg);
+
+}
+h2{
+    margin: 5%;
+    font-size: 1rem;
+    border-bottom: 2px solid #ccc8c8;
+}
+.cardinfo {
+    width: 100%;
+}
