@@ -9,9 +9,11 @@ function Header(){
             <div className={styles.name}>
                 <span> {name} </span>
             </div>
+            {/*
             <div className={styles.pic_container}>
                 <img className={styles.pic} src={pic} />
             </div>
+            */}
         </div>
     </>)
 }
