@@ -15,13 +15,13 @@ let edu = {
     type: 'Post Graduation',
     course: 'Master of Computer Application ( MCA )',
     institute: 'Graphic Era Hill University',
-    desc: '8.68 sgpa or 82.46%'
+    desc: '8.68 cgpa or 82.46%'
   },
   grad : {
     type: 'Graduation',
     course: 'Bachelor of Compute Application ( BCA )',
     institute: 'Graphic Era Hill University',
-    desc: '8.27 sgpa or 78.56%'
+    desc: '8.27 cgpa or 78.56%'
   }
 }
 
