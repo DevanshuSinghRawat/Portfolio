@@ -1,7 +1,12 @@
-body {
-    /* background-color: rgb(31, 34, 35); */
+
+.bground {
     background: url('./images/bg2.jpeg');
+    width: 100%;
+    height: 100%;
+    filter: blur(8px);
+    position: fixed;
     background-size: contain;
+    background-repeat: repeat;
 }
 .App {
     position: relative;
@@ -9,16 +14,15 @@ body {
     height: fit-content;
     margin: 0 auto;
     overflow-x: hidden;
-    margin: 0 auto;
-    /* background-color: rgb(31, 34, 35); */
+    background-color: rgba(0, 0, 0, 0.074);
     z-index: 2;
-
 }
 .header {
     width: 100dvw;
     min-height:  30dvw;
     max-height: 50vh;
     display: inline-flex;
+    margin: 10dvh 5dvw;
 }
 .name {
     position: relative;

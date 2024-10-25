@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from '../Style.module.css'
-import pic from '../images/pic.png'
+// import pic from '../images/pic.png'
 
 function Header(){
     let name="Devanshu Singh Rawat"

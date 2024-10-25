@@ -27,26 +27,29 @@ let edu = {
 
 function App() {
   return (
+    <div>
+    <div className={styles.bground}> </div>
     <div className={styles.App}>
       <Header/>
-      <hr/>
+      <br/>
       <About/>  
-       <hr/>
+       <br/>
       <h1> Qualification </h1>
       <Cards edu={edu.postgrad} />
       <Cards edu={edu.grad} />
-      <hr/>
+      <br/>
       <h1> Skills </h1>
       <Skills/>
-      <hr/>
+      <br/>
       <h1> Projects </h1>
       <Projects/>
-      <hr/>
+      <br/>
       <h1> Certifications </h1>
       <Certifications/>
-      {/* <h1> Contact Us </h1> */}
+
       <ContactUs />
       
+    </div>
     </div>
   );
 }
