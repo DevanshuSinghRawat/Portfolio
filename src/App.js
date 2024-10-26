@@ -30,13 +30,13 @@ function App() {
     <div>
     <div className={styles.bground}> </div>
     <div className={styles.App}>
-      <Header/>
+      <Header className={styles.component}/>
       <br/>
-      <About/>  
+      <About className={styles.component}/>  
        <br/>
       <h1> Qualification </h1>
-      <Cards edu={edu.postgrad} />
-      <Cards edu={edu.grad} />
+      <Cards edu={edu.postgrad}/>
+      <Cards edu={edu.grad}/>
       <br/>
       <h1> Skills </h1>
       <Skills/>

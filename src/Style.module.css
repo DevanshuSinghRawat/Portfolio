@@ -1,6 +1,11 @@
-
+h1 {
+    font-family: Geneva, Verdana, sans-serif;
+    letter-spacing: 0.1em;
+}
 .bground {
-    background: url('./images/bg2.jpeg');
+    /* background: url('./images/bg2.jpeg'); */
+    background-image: linear-gradient( #5f9f9a, #CBAB84 );    
+    /* background-image: linear-gradient(160deg, #0093e9, #80d0c7); */
     width: 100%;
     height: 100%;
     filter: blur(8px);
@@ -16,6 +21,10 @@
     overflow-x: hidden;
     background-color: rgba(0, 0, 0, 0.074);
     z-index: 2;
+    font-size: 1em;
+}
+.component {
+    min-height: 80dvh;
 }
 .header {
     width: 100dvw;
@@ -34,7 +43,6 @@
     color: rgba(255, 255, 255, 0.053);
     font-family: Geneva, Verdana, sans-serif;
     -webkit-text-stroke: 2px #fff;
-    z-index: 2;
 }
 .pic_container {
     position: relative;
@@ -60,6 +68,9 @@
     }
     .App {
         max-width: 60dvw;
+        width: 80%;
+        padding: 0 10dvw;
+        justify-content: space-between;
     }
     .header {
         padding-bottom: 5rem;
@@ -69,7 +80,10 @@
 .about {
     position: relative;
     float:inline-end;
+    min-height: 80dvh;
 }
 .content {
     flex-wrap: wrap;
+    letter-spacing: 0.05em;
+    word-spacing: 0.2em;
 }

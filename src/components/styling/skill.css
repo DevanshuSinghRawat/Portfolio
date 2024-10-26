@@ -3,13 +3,13 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-color: #1985A1;
+    background-color: rgba(0, 0, 0, 0.064);
     justify-content: center;
 }
 
 .skillbox {
     border: 1px solid #cfc7c7;
-    background-color: #095F80;
+    background-color: rgba(0, 0, 0, 0.135);
     padding: 2%;
     margin: 2% 1vmin;
     border-radius: 3vmin;
