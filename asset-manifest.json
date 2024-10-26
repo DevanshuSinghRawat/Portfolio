@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1388bef6.css",
-    "main.js": "/Portfolio/static/js/main.a45de2f8.js",
+    "main.css": "/Portfolio/static/css/main.edd9d067.css",
+    "main.js": "/Portfolio/static/js/main.7e33adbe.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/BusRes-recording.mp4": "/Portfolio/static/media/BusRes-recording.de5078b568842637380b.mp4",
     "static/media/ImageTextExtractor_vid.mp4": "/Portfolio/static/media/ImageTextExtractor_vid.8545824ead913cf9523f.mp4",
     "static/media/image_carousel_vid.mp4": "/Portfolio/static/media/image_carousel_vid.928db0c681070bf4b226.mp4",
     "static/media/Texteditor_vid.mp4": "/Portfolio/static/media/Texteditor_vid.c57dbce655f58217bc95.mp4",
     "static/media/HTML_CSS.jpg": "/Portfolio/static/media/HTML_CSS.3f2b52e94db341d41307.jpg",
-    "static/media/pic.png": "/Portfolio/static/media/pic.29cd284210073f448325.png",
     "static/media/Techwizard2.jpeg": "/Portfolio/static/media/Techwizard2.6f7b8e7dafd05c57a65c.jpeg",
     "static/media/JS_certificate.jpg": "/Portfolio/static/media/JS_certificate.90c16642fda02423233d.jpg",
     "static/media/edunet_intern.png": "/Portfolio/static/media/edunet_intern.7658484c14e50fc61b39.png",
@@ -19,12 +18,12 @@
     "static/media/data_visualization.png": "/Portfolio/static/media/data_visualization.cd618d32244a2166d66e.png",
     "static/media/cybersecurity_essentials.png": "/Portfolio/static/media/cybersecurity_essentials.3a63fbcb6670ae93ae38.png",
     "index.html": "/Portfolio/index.html",
-    "main.1388bef6.css.map": "/Portfolio/static/css/main.1388bef6.css.map",
-    "main.a45de2f8.js.map": "/Portfolio/static/js/main.a45de2f8.js.map",
+    "main.edd9d067.css.map": "/Portfolio/static/css/main.edd9d067.css.map",
+    "main.7e33adbe.js.map": "/Portfolio/static/js/main.7e33adbe.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1388bef6.css",
-    "static/js/main.a45de2f8.js"
+    "static/css/main.edd9d067.css",
+    "static/js/main.7e33adbe.js"
   ]
 }
