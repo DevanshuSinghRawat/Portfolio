@@ -5,7 +5,8 @@
 .certItem:hover {
     padding-left: 30px;
     font-weight: bold;
-    border-bottom: 2px solid #ff8c00e7;
+    border-bottom: 2px solid #bc741c;
+    cursor: pointer;
 }
 
 img {
@@ -13,6 +14,7 @@ img {
     min-width: 300px;
     position: relative;
     left: -30px;
+    cursor: default;
 }
 /* .certPanel {
     display: grid;
