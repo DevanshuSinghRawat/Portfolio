@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.edd9d067.css",
-    "main.js": "/Portfolio/static/js/main.7e33adbe.js",
+    "main.css": "/Portfolio/static/css/main.ef6cdf2e.css",
+    "main.js": "/Portfolio/static/js/main.58a66602.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/BusRes-recording.mp4": "/Portfolio/static/media/BusRes-recording.de5078b568842637380b.mp4",
     "static/media/ImageTextExtractor_vid.mp4": "/Portfolio/static/media/ImageTextExtractor_vid.8545824ead913cf9523f.mp4",
@@ -18,12 +18,12 @@
     "static/media/data_visualization.png": "/Portfolio/static/media/data_visualization.cd618d32244a2166d66e.png",
     "static/media/cybersecurity_essentials.png": "/Portfolio/static/media/cybersecurity_essentials.3a63fbcb6670ae93ae38.png",
     "index.html": "/Portfolio/index.html",
-    "main.edd9d067.css.map": "/Portfolio/static/css/main.edd9d067.css.map",
-    "main.7e33adbe.js.map": "/Portfolio/static/js/main.7e33adbe.js.map",
+    "main.ef6cdf2e.css.map": "/Portfolio/static/css/main.ef6cdf2e.css.map",
+    "main.58a66602.js.map": "/Portfolio/static/js/main.58a66602.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edd9d067.css",
-    "static/js/main.7e33adbe.js"
+    "static/css/main.ef6cdf2e.css",
+    "static/js/main.58a66602.js"
   ]
 }
